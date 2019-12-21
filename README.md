@@ -25,7 +25,7 @@ Avito Clone is a web application, based on ReactJs and RubyOnRails REST API
   $**`rake db:seed`**
   
 2- Run the API server
-  $**`rails s`
+  $**`rails s`**
 
 ### FrontEnd 
 1- Open a command prompt or a terminal
