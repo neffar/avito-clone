@@ -1,5 +1,5 @@
 # Avito-Clone-Project
-Avito Clone is a web application, based on ReactJs and RubyOnRails REST API<br>
+Avito Clone is a web application and an API, based on Ruby On Rails REST, and ReactJs alongside with Redux. <br>
 
 # Documentation
 
