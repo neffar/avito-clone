@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.5.3",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "jwt-decode": "^2.2.0",
     "prop-types": "^15.6.2",
